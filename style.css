@@ -189,7 +189,7 @@ a {
 .hero-bg-img {
     position: absolute;
     inset: 0;
-    background: url('https://mmbiz.qpic.cn/sz_mmbiz_jpg/hf91iaVibwVu9xPoyZcKFiaYLOIwCQInKgia6I9zr7mvjrNibEde4UypVme6ibvs1AZFepSiam5VMMm80oOiaSZA09dYkGgyLcDMR0zic2EhQKIdbeAA/640?wx_fmt=jpeg&from=appmsg') center/cover no-repeat;
+    background: url('images/img01.jpg') center/cover no-repeat;
     transform: scale(1.05);
     animation: heroZoom 20s ease-in-out infinite alternate;
 }
