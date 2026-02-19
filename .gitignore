@@ -11,5 +11,10 @@ sogou_results.txt
 articles_data.txt
 articles_summary.json
 temp_html/
+temp_articles/
+temp_art_*.html
+temp_*.html
+temp_*.txt
+*.py
 nul
 .claude/
